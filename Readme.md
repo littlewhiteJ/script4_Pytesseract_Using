@@ -1,6 +1,6 @@
 # 一个用了pytesseract做OCR的脚本
 
-[English Readme]()
+[English Readme](https://github.com/littlewhiteJ/script4_Pytesseract_Using/blob/master/script4_Pytesseract_Using.md)
 
 **这里就是个普通的用google的pytesseract实现OCR的脚本**
 
